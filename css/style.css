@@ -1,0 +1,42 @@
+/*selectores de clases*/
+@import url('https://fonts.googleapis.com/css2? family= Inter:wght@100 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Abril+Fatface & display=swap');
+
+
+
+
+.bg-green{
+	background-color: #4e9467;
+}
+
+
+.w-25{
+	width: 75%;
+
+}
+
+h2{
+	font-size: 2.5 rem;
+	color: #9BD290;
+	background-color: #F3D5EF;
+}
+
+
+.texto{
+	font-family: Abril+fat+face, cursive;
+	text-align: center;	
+	color: #941DA6;
+}
+
+.boton-color{
+	color: #BF7AC2;
+	background-color: #EBE6BF;
+}
+
+body{
+	background-image: url(../img/hojas.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}	
+
